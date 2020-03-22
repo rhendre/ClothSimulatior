@@ -2,7 +2,7 @@
 
 This is a Cloth Simulation Code using C++ and opengl.
 
-File has a makefile and assumes you have glut and glew libraries.
+File has a makefile and assumes you have freeglut and glew libraries.
 
 Contains Implementation For:
  1. Spring Mass Cloth Simulation.
