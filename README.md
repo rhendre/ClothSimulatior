@@ -11,3 +11,6 @@ Contains Implementation For:
  4. Symplectic Euler
  5. Collision with Sphere
 
+To run the command run : make or mingw32-make
+
+The output will be available in main.exe
