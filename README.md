@@ -1,4 +1,4 @@
-# ClothSimulatior
+# ClothSimulator
 
 This is a Cloth Simulation Code using C++ and opengl.
 
